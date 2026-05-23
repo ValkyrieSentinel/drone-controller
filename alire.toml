@@ -1,0 +1,12 @@
+name = "drone_controller"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["Helga"]
+maintainers = ["Helga <valkyriesentinel@gmail.com>"]
+maintainers-logins = ["github-username"]
+licenses = "Apache-2.0"
+website = ""
+tags = []
+
+executables = ["drone_controller"]
