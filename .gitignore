@@ -1,14 +1,8 @@
-# Alire / GNAT build artifacts
-/obj
-/bin
-/alire/cache
-alire.lock
-
-# Editor/System
+obj/
+bin/
+build/
+*.o
+*.ali
+alire.toml.lock
 .DS_Store
-*.swp
-.idea
-.vscode
-
-# Binary/Executable
-drone_controller
+.vscode/
